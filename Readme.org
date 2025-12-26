@@ -13,11 +13,17 @@ It is based on the image recognition from Tesseract.
 
 * Features
 The application features a main screen where you can select an image or capture a new one with the camera:
-[[/images/main.png]]
+#+BEGIN_HTML
+<img src="/images/main.png" style="width:50%;">
+#+END_HTML
 When selected you are prompted to crop the image selecting only the piece of text you are interested in:
-[[/images/capture.png]]
+#+BEGIN_HTML
+<img src="/images/capture.png" style="width:50%;">
+#+END_HTML
 The application calculates and shows the text recognized and the LIX number of it:
-[[/images/result.png]]
+#+BEGIN_HTML
+<img src="/images/result.png" style="width:50%;">
+#+END_HTML
 At this moment Danish and English Tesseract language recognition is bundled with the application.
 The application uses the standard [[https://en.wikipedia.org/wiki/Lix_(readability_test)][LIX]] calculation
 
