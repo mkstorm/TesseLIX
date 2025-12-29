@@ -28,8 +28,8 @@ At this moment Danish and English Tesseract language recognition is bundled with
 The application uses the standard [[https://en.wikipedia.org/wiki/Lix_(readability_test)][LIX]] calculation
 
 * TODO Later
-** Registration of books (Database)
+- Registration of books (Database)
 A way to save books with their calculated LIX numbers to create you own library
 
-** Better Lix Detection
+- Better Lix Detection
 Base the calculation on 3 different pages of text from the same book to get a better LIX number.
