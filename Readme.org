@@ -3,9 +3,7 @@
 * Table of contents :toc:
 - [[#about][About]]
 - [[#features][Features]]
-- [[#later][Later]]
-  - [[#registration-of-books-database][Registration of books (Database)]]
-  - [[#better-lix-detection][Better Lix Detection]]
+- [[#improvements][Improvements]]
 
 * About
 A Small Flutter/Dart application for android, to calculate the Lix number of a text, using a pre taken picture or the camera directly.
@@ -27,7 +25,7 @@ The application calculates and shows the text recognized and the LIX number of i
 At this moment Danish and English Tesseract language recognition is bundled with the application.
 The application uses the standard [[https://en.wikipedia.org/wiki/Lix_(readability_test)][LIX]] calculation
 
-* TODO Later
+* Improvements
 - Registration of books (Database)
 A way to save books with their calculated LIX numbers to create you own library
 
